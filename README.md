@@ -35,7 +35,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 🚀 **Lead Backend Developer** with a passion for building efficient and scalable software solutions! With **9 years** in the industry, I’ve honed my skills in crafting robust backend applications using **Golang** and **NodeJS**. My journey is all about innovation and a constant quest for knowledge in the dynamic world of software development. 💡✨
 
