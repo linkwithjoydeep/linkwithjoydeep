@@ -1,8 +1,5 @@
-<div align="center">
-  
-  # Joydeep Bhattacharya
+<img src="https://github.com/linkwithjoydeep/linkwithjoydeep/blob/main/Black%20and%20White%20Gradient%20Personal%20LinkedIn%20Banner.png" />
 
-</div>
 <br>
 <div align="center">
   
