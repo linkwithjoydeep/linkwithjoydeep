@@ -6,7 +6,7 @@
 <br>
 <div align="center">
   
-  **Polygot Developer, Technology Enthusiast and Ocassional Blogger**
+  *****Polygot Developer, Technology Enthusiast and Ocassional Blogger*****
 
 </div>
 <br>
