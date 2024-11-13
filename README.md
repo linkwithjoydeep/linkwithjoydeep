@@ -1,5 +1,23 @@
-<h1 align="center">Joydeep Bhattacharya</h1>
-<p align="center">Software Developer, Technology Enthusiast and a Blogger</p>
+<div align="center">
+  
+  # Joydeep Bhattacharya
+
+</div>
+<br>
+<div align="center">
+  
+  **Polygot Developer, Technology Enthusiast and Ocassional Blogger**
+
+</div>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/linkwithjoy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Joydeep's LinkedIn"/>
@@ -10,37 +28,18 @@
   </a>
 </p>
 
-<p align="center">Latest Posts</p>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://medium.com/@linkwithjoydeep/the-bug-that-broke-my-code-and-taught-me-more-than-any-coding-course-68bea5c23d74">
-        <img width="140px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gHqUCokd1L33KsVtYLR1Bg.jpeg">
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@linkwithjoydeep/the-bug-that-broke-my-code-and-taught-me-more-than-any-coding-course-68bea5c23d74">The Bug That Broke My Code (and Taught Me More Than Any Coding Course)</a> (Nov 7, 2024) <br />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://medium.com/@linkwithjoydeep/manage-goroutines-wisely-in-go-practical-strategies-for-optimal-performance-b33a0ea33e52">
-        <img width="140px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hCIhKJGvWUTt3nyni9LDbw.jpeg">
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@linkwithjoydeep/manage-goroutines-wisely-in-go-practical-strategies-for-optimal-performance-b33a0ea33e52">Manage Goroutines Wisely in Go: Practical Strategies for Optimal Performance</a> (Nov 7, 2024) <br />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://medium.com/@linkwithjoydeep/why-i-stopped-using-github-copilot-after-a-year-f3012aa86a26">
-        <img width="140px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*G1dqniIJrNnjptVR">
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@linkwithjoydeep/why-i-stopped-using-github-copilot-after-a-year-f3012aa86a26">Why I Stopped Using GitHub Copilot After a Year</a> (Jul 14, 2024) <br />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+## About
+
+</div>
+
+<div align="center">
+
+🚀 **Lead Backend Developer** with a passion for building efficient and scalable software solutions! With **9 years** in the industry, I’ve honed my skills in crafting robust backend applications using **Golang** and **NodeJS**. My journey is all about innovation and a constant quest for knowledge in the dynamic world of software development. 💡✨
+
+🎸 When I’m not coding, you might find me strumming my guitar or diving into a variety of games 🎮. I also have a passion for learning new languages—both human and programming 🗣️💻—a hobby that keeps my curiosity alive and my mind adaptable! 🌱🔍
+
+</div>
+
