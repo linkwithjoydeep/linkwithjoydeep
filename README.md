@@ -23,6 +23,10 @@
   <a href="https://medium.com/@linkwithjoydeep">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Joydeep's Blog"/>
   </a>
+
+  <a href="https://joywrites.dev">
+    <img src="https://img.shields.io/badge/Blog%20%E2%98%95-joywrites.dev-667eea?style=for-the-badge&logo=rss&logoColor=white" alt="Joydeep's Blog"/>
+  </a>
 </p>
 
 
