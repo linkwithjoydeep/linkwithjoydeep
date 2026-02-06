@@ -1,4 +1,4 @@
-<img src="https://github.com/linkwithjoydeep/linkwithjoydeep/blob/main/linkedin_banner_alt.jpg" />
+<img src="https://github.com/linkwithjoydeep/linkwithjoydeep/blob/main/linkedin_banner_alt_cropped.jpg" />
 
 <br>
 <div align="center">
