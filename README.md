@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Joydeep's Blog"/>
   </a>
 
-  <a href="https://joywrites.dev">
-    <img src="https://img.shields.io/badge/Blog%20%E2%98%95-joywrites.dev-667eea?style=for-the-badge&logo=rss&logoColor=white" alt="Joydeep's Blog"/>
+  <a href="https://joydeep.io">
+    <img src="https://img.shields.io/badge/Website-JOYDEEP.IO-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Joydeep's Website"/>
   </a>
 </p>
 
